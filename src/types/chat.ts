@@ -60,7 +60,7 @@ export type ModelOptions =
   | 'gpt-3.5-turbo-0125'
   | 'gpt-4-turbo'
   | 'gpt-4-turbo-preview'
-    'gpt-4o';
+  | 'gpt-4o';
 // | 'gpt-3.5-turbo-0301';
 // | 'gpt-4-0314'
 // | 'gpt-4-32k-0314'
